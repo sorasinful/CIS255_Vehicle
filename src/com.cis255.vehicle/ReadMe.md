@@ -1,0 +1,1 @@
+Java classes for the Makes, Types, and Models. Each class should have properties representing the characteristics in UML.
